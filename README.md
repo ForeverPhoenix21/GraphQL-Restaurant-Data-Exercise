@@ -4,7 +4,7 @@ The Restaurant-Data-Exercise was created for the MITxPro full stack web developm
 
 ## Description:
 
-<p> This CRUD exercise was built to work with GraphQL. In the index.js file, the restaurant JSON data can be created, read, updated, and deleted using the schema build in the index.js file for GraphQL.  </p>
+<p> This CRUD exercise was built to work with GraphQL. In the index.js file, the restaurant JSON data can be created, read, updated, and deleted using the schema build for GraphQL.  </p>
 
 <!-- <p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p>  -->
 
