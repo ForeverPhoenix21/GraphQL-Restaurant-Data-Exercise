@@ -4,15 +4,15 @@ The Restaurant-Data-Exercise was created for the MITxPro full stack web developm
 
 ## Description:
 
-<p> This CRUD exercise was built to work with GraphQL. In the index.js file, the restaurant JSON data can be created, read, updated, and deleted using the schema build for GraphQL.  </p>
+<p> This CRUD exercise was built to work with GraphQL. In the index.js file, the restaurant JSON data can be created, read, updated, and deleted using the schema build in the index.js file for GraphQL.  </p>
 
-<p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p> 
+<!-- <p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p>  -->
 
 ## Installation:
 <p> Upload the files in your favorite code editor. Install the dependencies by typing $npm install in the terminal. 
 </p> 
 
-## Usage:
+<!-- ## Usage:
 
   <p>You can add the Pacmen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. Have fun watching the Pacmen animate the screen. </p>
 
@@ -25,7 +25,7 @@ The Restaurant-Data-Exercise was created for the MITxPro full stack web developm
 **<p> Future updates: </p>**
 - Create collison barriers for pacmen to collide with. 
 - Make the packmen change colors/size when colliding against a wall.
-- Add functinal buttons that can manipulate the pacmen on the screen. 
+- Add functinal buttons that can manipulate the pacmen on the screen.  -->
 
 ## Support:
 
